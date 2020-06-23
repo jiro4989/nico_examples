@@ -1,6 +1,6 @@
 import unittest
 
-include APPNAME
+include nico_examples
 
 suite "suite":
   test "test":

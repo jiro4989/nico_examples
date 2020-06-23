@@ -1,5 +1,5 @@
 ====
-APPNAME
+nico_examples
 ====
 
 |nimble-version| |nimble-install| |gh-actions|
@@ -28,16 +28,16 @@ Installation
 
 .. code-block:: shell
 
-   $ nimble install -Y APPNAME
+   $ nimble install -Y nico_examples
 
 LICENSE
 =======
 
 MIT
 
-.. |gh-actions| image:: https://github.com/jiro4989/APPNAME/workflows/build/badge.svg
-   :target: https://github.com/jiro4989/APPNAME/actions
-.. |nimble-version| image:: https://nimble.directory/ci/badges/APPNAME/version.svg
-   :target: https://nimble.directory/ci/badges/APPNAME/nimdevel/output.html
-.. |nimble-install| image:: https://nimble.directory/ci/badges/APPNAME/nimdevel/status.svg
-   :target: https://nimble.directory/ci/badges/APPNAME/nimdevel/output.html
+.. |gh-actions| image:: https://github.com/jiro4989/nico_examples/workflows/build/badge.svg
+   :target: https://github.com/jiro4989/nico_examples/actions
+.. |nimble-version| image:: https://nimble.directory/ci/badges/nico_examples/version.svg
+   :target: https://nimble.directory/ci/badges/nico_examples/nimdevel/output.html
+.. |nimble-install| image:: https://nimble.directory/ci/badges/nico_examples/nimdevel/status.svg
+   :target: https://nimble.directory/ci/badges/nico_examples/nimdevel/output.html
